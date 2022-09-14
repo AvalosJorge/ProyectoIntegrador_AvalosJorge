@@ -3,7 +3,7 @@
 }
 
 div{
-  background-color: rgb(44, 214, 72);
+  background-color: rgba(16, 52, 212, 0.904);
   text-align: center;
 }
 
@@ -14,7 +14,7 @@ div{
     position: absolute;
     width: 15%;
     border-radius: 100%;
-    box-shadow: 3px 3px 3px black;
+    box-shadow: 3px 3px 3px rgba(5, 5, 5, 0.082);
     left:3%;
     top:600px;
   }
